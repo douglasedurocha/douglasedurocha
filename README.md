@@ -43,9 +43,9 @@ I am passionate about programming and I love to solve problems and evolve by lea
   <a href="https://github.com/douglasedurocha">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasedurocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
-  <!-- <a href="https://github.com/douglasedurocha">
+  <a href="https://github.com/douglasedurocha">
     <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasedurocha&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>/-->
+  </a>
 </div>
 
 
